@@ -1,0 +1,2 @@
+# EventBus-
+EventBus这个开源框架出来已经很久了，深的很多开发者青睐，由greenrobot 组织贡献(该组织还贡献了greenDAO)，是一个Android事件发布/订阅轻量级框架,通过解耦发布者和订阅者简化Android事件传递，EventBus可以代替Android传统的Intent,Handler,Broadcast或接口函数,在Fragment,Activity,Service线程之间传递数据，执行方法。
